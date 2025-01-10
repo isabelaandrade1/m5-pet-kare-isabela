@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'pets',
     'groups',
     'traits',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
